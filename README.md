@@ -2,6 +2,8 @@
 
 ![p](https://github.com/bell-kevin/workingOnTheGoalInputComponent/blob/main/bbbbbbbb.PNG)
 
+![p](https://github.com/bell-kevin/workingOnTheGoalInputComponent/blob/main/ccccc.PNG)
+
 
 == We're Using GitHub Under Protest ==
 
