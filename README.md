@@ -1,4 +1,6 @@
-# 
+# Working on the Goal Input Component
+
+![p](https://github.com/bell-kevin/workingOnTheGoalInputComponent/blob/main/bbbbbbbb.PNG)
 
 
 == We're Using GitHub Under Protest ==
